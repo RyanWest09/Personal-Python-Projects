@@ -64,8 +64,6 @@ def vigenere_encode(sentence,keyword):
   final_string = ''.join(char_list)
   return final_string
 
-print(vigenere_encode("Callum is super duper gay","nutsack"))
-print(vigenere_decode("pgstuk yf ybxep thvlz gyo","nutsack"))
 
 
 
